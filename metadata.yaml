@@ -1,0 +1,5 @@
+homepage: "https://exatom.io"
+documentation: "https://support.exatom.io/portal/en/kb/exatom/setup/tags"
+versions:
+  - sha: dbc339a7b3594af58e8e59de22a412595b549c0f
+    changeNotes: Initial release.
